@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @f-techs
-- 👀 I’m interested in Javascript, React, Dart, Flutter, Cloud computing
-- 🌱 I’m currently Mastering Javascript
+- 👀 Javascript, React, Dart, Flutter, Laravel, Cloud computing
 - 💞️ I’m looking to collaborate on freelance Projects
 - 📫 How to reach me: kwaadjei015@gmail.com
 
