@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @f-techs
-- 👀 Javascript, React, Dart, Flutter, Laravel, Cloud computing
+- 👀 PHP - Laravel Developer
 - 💞️ I’m looking to collaborate on freelance Projects
 - 📫 How to reach me: kwaadjei015@gmail.com
 
