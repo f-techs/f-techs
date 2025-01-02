@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @f-techs
-- 👀 PHP - Laravel Developer
+- 👀 FullStack Developer
 - 💞️ I’m looking to collaborate on freelance Projects
 - 📫 How to reach me: kwaadjei015@gmail.com
 
