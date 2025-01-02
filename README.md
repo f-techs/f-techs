@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @f-techs
-- 👀 FullStack Developer
+- 👀 Full Stack Developer
 - 💞️ I’m looking to collaborate on freelance Projects
 - 📫 How to reach me: kwaadjei015@gmail.com
 
